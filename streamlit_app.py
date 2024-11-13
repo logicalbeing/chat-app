@@ -1,5 +1,5 @@
 import streamlit as st
-from google.generativeai import Model
+from google.generativeai import model
 
 st.title("🎈 My new app")
 st.write(
