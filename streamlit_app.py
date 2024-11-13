@@ -1,2 +1,2 @@
 import streamlit as st
-st.print("My first page")
+st.write("My first page")
